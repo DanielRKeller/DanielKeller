@@ -1,0 +1,252 @@
+#cab {
+	display: block;
+	position: absolute;
+	top: 0px;
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	margin-left: -8px;
+}
+
+#lat {
+	display: block;
+	position: absolute;
+	top: 0px;
+	background-color: #ffa401;
+	width: 15%;
+	height: 150%;
+	margin-left: -8px;
+}
+
+#nome {
+	font-style: italic;
+	text-align: center;
+	font-size: 25px;
+	font-color: #ffa401;
+	top: 200px;
+	margin-left: 500px;
+}
+
+#nomerock {
+	font-family: "Bungee Inline";
+	text-align: center;
+	font-size: 50px;
+	font-color: #ffa401;
+	top: -60px;
+	position: relative;
+}
+
+#rockstar {
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	font-color: #ffa401;
+	margin-left: 20%;
+	top: 120px;
+	text-align: center;
+	width: 70%;
+
+
+}
+
+#rockstar2 {
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	font-color: #ffa401;
+	top: -30px;
+	margin-left: 20%;
+	top: 120px;
+	text-align: center;
+	width: 70%;
+
+}
+
+#hist {
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	font-color: #ffa401;
+	top: 100px;
+	position: absolute;
+	margin-left: 20%;
+	top: 120px;
+	text-align: center;
+	width: 70%;
+
+}
+
+#jogos {
+	font-family: "Bungee Inline";
+	margin-left: 5%;
+	font-size: 20px;
+	position: absolute;
+	top: 120px;
+	text-decoration: none;
+	width: 10%;
+}
+
+#historia {
+	font-family: "Bungee Inline";
+	margin-left: 5%;
+	font-size: 20px;
+	position: absolute;
+	top: 225px;
+	text-decoration: none;
+	width: 10%;
+	
+}
+
+#estudios {
+	font-family: "Bungee Inline";
+	margin-left: 5%;
+	font-size: 20px;
+	position: absolute;
+	top: 290px;
+	text-decoration: none;
+	width: 10%;
+
+}
+
+#filo {
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	font-color: #ffa401;
+	position: relative;
+	margin-left: 485px;
+}
+
+#rocks1 {
+	position: absolute;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+}
+
+#rocks2 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+}
+
+#rocks3 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+}
+
+#rocks4 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+}
+
+#rocks6 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+}
+
+#rocks7 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+}
+
+#lemi {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+}
+
+#gta {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+	
+}
+
+#reddead {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+	
+}
+
+#gtasan {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+	
+}
+
+#gtav {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+
+}
+
+#gta2 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+
+}
+
+#gta3 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+
+}
+
+#gta4 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+
+}
+
+#reddead2 {
+	position: relative;
+	font-family: "Bungee Inline";
+	font-size: 20px;
+	margin-left: 20%;
+	top: 20%;
+	text-align: center;
+	width: 70%;
+	
+}
